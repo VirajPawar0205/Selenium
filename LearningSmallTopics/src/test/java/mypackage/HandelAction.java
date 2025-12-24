@@ -30,6 +30,7 @@ public class HandelAction {
 	    backcolor=e1.getCssValue("background-color");
 	  System.out.println(backcolor);
 	  driver.close();
+	 
 
 //	  as.click(btn).perform();
   }
